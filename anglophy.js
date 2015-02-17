@@ -18,7 +18,7 @@ var queryString = function queryString() {
 
 window.onload = function () {
   if (queryString.en == "uk") {
-    $.getJSON('https://cdn.rawgit.com/bryanstedman/anglophy.me/master/phrases.json', function(data) {
+    $.getJSON('http://anglophy.me/phrases.json', function(data) {
       function htmlreplace(a, element) {
         if (!element) element = document.body;
         var nodes = element.childNodes;
