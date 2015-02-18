@@ -1,3 +1,14 @@
+/*!
+ * Anglophy.js v1.0.0
+ * http://anglophy.me
+ *
+ * Copyright 2015 Bryan Stedman
+ * http://bryanstedman.com, @bryanstedman
+ * Released under the MIT license
+ *
+ * Date: 2015-02-18
+ */
+
 var queryString = function queryString() {
   var query_string = {};
   var query = window.location.search.substring(1);
