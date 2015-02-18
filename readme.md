@@ -21,6 +21,13 @@ Changes only occur on text elements so your class names and styles are safe.
 ## Version
 * Version 1.0
 
+## Contributing
+The list of current phrases can be found [here](https://github.com/bryanstedman/anglophy.js/blob/gh-pages/phrases.json). Did I miss something that should be translated? Help add to the list. You can contribute in three ways:
+
+* Fork this repo and submit a pull request
+* Submit the edit directly to the phrases file [here on github](https://github.com/bryanstedman/anglophy.js/edit/gh-pages/phrases.json)
+* [Open an issue](https://github.com/bryanstedman/anglophy.js/issues) requesting the word or phrase that you think should be added
+
 ## Contact
 * Homepage: [bryanstedman.com](http://bryanstedman.com)
 * Twitter: [@bryanstedman](https://twitter.com/bryanstedman "bryanstedman on twitter")
